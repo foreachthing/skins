@@ -14,5 +14,5 @@ Also I relabeled the diamond (to CTRL) and 2nd (to ALT) keys. CLEAR became DEL. 
 
 https://www.ticalc.org/archives/files/fileinfo/471/47110.html
 
-![bigandbright](https://github.com/foreachthing/skins/blob/master/bright%20and%20big/tiv200brightbig1.PNG)
+![bigandbright](https://github.com/foreachthing/skins/blob/BigBrightBetter/bright%20and%20big/TI-v200-bright-big.jpg)
 
